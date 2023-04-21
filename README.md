@@ -1,35 +1,20 @@
-# gm-frontend
+## VITE + VUE JS 3
+### Instalación 🔧
 
-This template should help get you started developing with Vue 3 in Vite.
+_1. clona el proyecto_
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
 ```
+git clone https://github.com/andres54-coder/gm_frontend.git
+```
+_2. instala las dependecias - sobre la raiz del proyecto previamente descargado ejecuta_
 
-### Compile and Hot-Reload for Development
+```
+npm install 
+```
+_3. por ultimo inicia el servidor de desarrollo con_
 
-```sh
+```
 npm run dev
 ```
+##el link de la app deberia quedar como http://localhost:5173/ bajo el puerto 5173
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
